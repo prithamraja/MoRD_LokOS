@@ -1,0 +1,4 @@
+# Generated database files
+*.db
+*.sqlite
+*.sqlite3
